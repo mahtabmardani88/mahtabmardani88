@@ -38,21 +38,6 @@
 
 
 
-## 🎓 Education  
-- **Full Stack Developer Program** | Hack Your Future, Netherlands (06/2024 - 11/2024)  
-- **Traineeship Software Engineering** | Capgemini, Netherlands (09/2022 - 09/2023)  
-- **Master’s Degree in Insurance Management** | Azad University, Iran (2012 - 2014)  
-- **Bachelor of Public Administration** | Azad University, Iran (2007 - 2011)  
-
----
-
-## 📜 Certifications  
-- **Full-Stack Developer at HackYourFuture**  
-- **Java SE 8 Programmer I**  
-- **Scrum Master PSM I**  
-
----
-
 ## 🌐 Find Me Online  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahtab-mardani-558852270/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/mahtabmardani88)  
