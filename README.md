@@ -2,7 +2,6 @@
 ### Full Stack Developer | Java Developer  
 
 📧 **Email:** mahtab_mardani88@yahoo.com  
-📞 **Phone:** 06 818811270  
 🌍 **Location:** Amsterdam, Netherlands  
 
 ---
