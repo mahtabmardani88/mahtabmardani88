@@ -6,36 +6,26 @@
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:**  
-- HTML, CSS, JavaScript, SQL, Java  
+## 🛠️ Tech Skills
+### Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Tools:**  
-- React, Node.js, Spring Boot, Bootstrap, MongoDB, Docker, Scrum  
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
+### Tools and Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 💼 Experience  
-### **Software Engineer Trainee**  
-**Hack Your Future** (06/2024 - 11/2024) | Amsterdam, Netherlands  
-- **Skills:** HTML, CSS, JavaScript, Node.js, React, MongoDB, SQL  
-- **Projects:**  
-  - **Quiz Game:** Interactive JavaScript game  
-  - **Book Website:** React & MongoDB platform for reading and buying books  
-- **Teamwork:** Collaborated using Scrum principles  
-
-### **Traineeship Software Engineer**  
-**Capgemini** (09/2022 - 09/2023) | Utrecht, Netherlands  
-- **Skills:** Java, Docker, Spring Boot, HTML, CSS, SQL, JavaScript  
-- **Projects:**  
-  - **Boat Rental System:** Java-based system for managing boat rentals  
-  - **Hotel Room Management System:** Dashboard for managers to reserve rooms and manage content  
-
-### **Clothing Design Instructor**  
-**Jahad Daneshgahi University and Mardani (Boutique Owner)** (2011 - 2015) | Iran  
-- **Skills:** Leadership, strategic planning, effective team management  
-
----
 
 ## 🎓 Education  
 - **Full Stack Developer Program** | Hack Your Future, Netherlands (06/2024 - 11/2024)  
