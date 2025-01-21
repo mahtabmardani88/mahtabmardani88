@@ -6,12 +6,6 @@
 
 ---
 
-## 🌟 Summary  
-Passionate about crafting creative and user-focused digital experiences, drawing on a background in reading, painting, and storytelling to inspire innovative solutions.  
-Strong team player with excellent problem-solving skills, dedicated to delivering impactful and meaningful web development projects. Approaches work with a thoughtful and down-to-earth mindset, bringing fresh ideas to every project.  
-
----
-
 ## 🛠️ Tech Stack  
 **Languages:**  
 - HTML, CSS, JavaScript, SQL, Java  
