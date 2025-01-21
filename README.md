@@ -71,15 +71,4 @@
 1. [**Quiz App**](https://keremilhan.github.io/quiz-app/)  
 2. [**Book Website**](https://464.group-b.65d8d4b9d2a74e22.truckboxapp.com/)  
 
----
-
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahtabmardani88&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabmardani88&layout=compact&theme=radical)
-
----
-
-## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahtabmardani88&theme=github)
-
 
